@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0c8307131c720c469f57dcfd4b7f49d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vbBtnObj: {instanceID: 0}
+  - ani: {instanceID: 0}
+  - testTrack: {fileID: 8300000, guid: 17dcb3d0e606ec34ab2a337b0ba94afb, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
