@@ -6,3 +6,4 @@ When a camera is pointed at that book cover, it recognizes it as the image targe
 The back cover is also an image target, and when you point a camera at it you will get more detailed information about the book pop up, including the language, number of pages, and publish year. There is a switch button on the book cover you can press that will bring up some textual reviews of the book as well as a video review that plays upon popping up. Pressing the switch button again will bring the detailed information back up and the reviews will disappear. 
 
 This was created for CS 428 by Lucas Cepiel
+Project Website: https://sites.google.com/view/lucas-cepiel-cs428/projects/project-1 
